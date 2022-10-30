@@ -1,0 +1,15 @@
+C:\Users\Janick\RiderProjects\gib403\gib403\bin\Debug\net6.0\gib403.exe
+C:\Users\Janick\RiderProjects\gib403\gib403\bin\Debug\net6.0\gib403.deps.json
+C:\Users\Janick\RiderProjects\gib403\gib403\bin\Debug\net6.0\gib403.runtimeconfig.json
+C:\Users\Janick\RiderProjects\gib403\gib403\bin\Debug\net6.0\gib403.dll
+C:\Users\Janick\RiderProjects\gib403\gib403\bin\Debug\net6.0\gib403.pdb
+C:\Users\Janick\RiderProjects\gib403\gib403\obj\Debug\net6.0\gib403.csproj.AssemblyReference.cache
+C:\Users\Janick\RiderProjects\gib403\gib403\obj\Debug\net6.0\gib403.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janick\RiderProjects\gib403\gib403\obj\Debug\net6.0\gib403.AssemblyInfoInputs.cache
+C:\Users\Janick\RiderProjects\gib403\gib403\obj\Debug\net6.0\gib403.AssemblyInfo.cs
+C:\Users\Janick\RiderProjects\gib403\gib403\obj\Debug\net6.0\gib403.csproj.CoreCompileInputs.cache
+C:\Users\Janick\RiderProjects\gib403\gib403\obj\Debug\net6.0\gib403.dll
+C:\Users\Janick\RiderProjects\gib403\gib403\obj\Debug\net6.0\refint\gib403.dll
+C:\Users\Janick\RiderProjects\gib403\gib403\obj\Debug\net6.0\gib403.pdb
+C:\Users\Janick\RiderProjects\gib403\gib403\obj\Debug\net6.0\gib403.genruntimeconfig.cache
+C:\Users\Janick\RiderProjects\gib403\gib403\obj\Debug\net6.0\ref\gib403.dll
