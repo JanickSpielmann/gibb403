@@ -41,7 +41,7 @@ class Program
                           "Möglich sind Multiplikationen der Zahlen 2-12\n" +
                           "Um das Programm zu Beenden geben Sie die Zahl 9999 ein.\n" +
                           "Geben Sie nun die Zahlenreihe ein,die Sie üben möchten: ");
-        char fertig = '';
+        char fertig = ' ';
         int eingabe = 0;
         Random random = new Random();
         int zahl = random.Next(2, 12);
